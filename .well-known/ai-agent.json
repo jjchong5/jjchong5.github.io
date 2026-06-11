@@ -1,0 +1,20 @@
+{
+  "name": "Jonathan Chong",
+  "description": "AI/ML Engineer and Data Scientist based in San Francisco. MSDS candidate at USF, AWS Certified AI Practitioner. Background in TensorFlow, Keras, Scikit-learn, Python, R, SQL, AWS Lambda. Active in SF hackathon community. Seeking DS/ML/Data Engineering roles.",
+  "version": "1.0",
+  "url": "https://jjchong5.github.io",
+  "capabilities": [
+    "data-science",
+    "machine-learning",
+    "python",
+    "aws",
+    "robotics",
+    "nlp"
+  ],
+  "contact": {
+    "email": "jjchong@msn.com",
+    "github": "https://github.com/jjchong5",
+    "linkedin": "https://linkedin.com/in/jjschong"
+  },
+  "llms_txt": "https://jjchong5.github.io/llms.txt"
+}

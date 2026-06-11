@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "name": "Jonathan Chong",
+  "description": "AI/ML Engineer and Data Scientist. MSDS candidate at USF (4.0 GPA, expected Summer 2026). AWS Certified AI Practitioner. Specializes in Python, TensorFlow, Keras, and AWS serverless. Based in San Francisco. Open to DS/ML/Data Engineering roles.",
+  "url": "https://jjchong5.github.io",
+  "provider": {
+    "organization": "Jonathan Chong",
+    "url": "https://jjchong5.github.io"
+  },
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "authentication": {
+    "schemes": []
+  },
+  "contact": {
+    "email": "jjchong@msn.com",
+    "github": "https://github.com/jjchong5",
+    "linkedin": "https://linkedin.com/in/jjschong"
+  }
+}
