@@ -1,6 +1,6 @@
 # Jonathan Chong — AI/ML Engineer & Data Scientist
 
-> MSDS candidate at University of San Francisco (expected Summer 2026, 4.0 GPA). AWS Certified AI Practitioner. 21 years of operations experience in real estate before transitioning to data science and ML. Based in San Francisco. Open to DS/ML/Data Engineering roles, internships, and contracts in SF Bay Area or remote.
+> M.S. Data Science, Eastern University (4.0 GPA). AWS Certified AI Practitioner. 21 years of operations experience in real estate before transitioning to data science and ML. Based in San Francisco. Open to DS/ML/Data Engineering roles, internships, and contracts in SF Bay Area or remote.
 
 ## About
 - [GitHub](https://github.com/jjchong5)
@@ -8,7 +8,7 @@
 - [Email](mailto:jjchong@msn.com)
 
 ## Education
-- M.S. Data Science — University of San Francisco (expected Summer 2026, 4.0 GPA)
+- M.S. Data Science — Eastern University (4.0 GPA)
 - B.S. Chemistry — George Fox University
 - AWS Certified AI Practitioner
 
